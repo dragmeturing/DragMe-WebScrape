@@ -1,0 +1,23 @@
+{
+  "name": "DragMe-WebScrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragmeturing/DragMe-WebScrape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragmeturing/DragMe-WebScrape/issues"
+  },
+  "homepage": "https://github.com/dragmeturing/DragMe-WebScrape#readme",
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  }
+}
